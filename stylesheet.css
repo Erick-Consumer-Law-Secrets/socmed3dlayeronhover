@@ -69,8 +69,8 @@ html,{
 }
 .icons a:nth-child(1) .layer span,
 .icons a:nth-child(1) .text{
-  color: #4267B2;
-  border-color: #4267B2;
+  color: #0866ff;
+  border-color: #0866ff;
 }
 .icons a:nth-child(2) .layer span,
 .icons a:nth-child(2) .text{
@@ -98,7 +98,7 @@ html,{
   border-color: #ffffff;
 }
 .icons a:hover:nth-child(1) .layer span{
-  box-shadow: -1px 1px 3px #4267B2;
+  box-shadow: -1px 1px 3px #0866ff;
 }
 .icons a:hover:nth-child(2) .layer span{
   box-shadow: -1px 1px 3px #1DA1F2;

@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<!-- Created By I Build Awesome Website  -->
+<html lang="en" dir="ltr">
+   <head>
+      <meta charset="utf-8">
+      <title>Social Media Icons 3D Layered On Hover Effect </title>
+      <link rel="stylesheet" href="style.css">
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
+   </head>
+   <body>
+      <div class="icons">
+         <a href="https://www.facebook.com/dfscredithero">
+            <div class="layer">
+               <span></span>
+               <span></span>
+               <span></span>
+               <span></span>
+               <span class="fab fa-facebook-f"></span>
+            </div>
+            <div class="text">
+               Facebook
+            </div>
+         </a>
+         <a href="https://twitter.com/ddelevante">
+            <div class="layer">
+               <span></span>
+               <span></span>
+               <span></span>
+               <span></span>
+               <span class="fab fa-x-twitter"></span>
+            </div>
+            <div class="text">
+               X
+            </div>
+         </a>
+         <a href="https://www.instagram.com/darainedelevante">
+            <div class="layer">
+               <span></span>
+               <span></span>
+               <span></span>
+               <span></span>
+               <span class="fab fa-instagram"></span>
+            </div>
+            <div class="text">
+               Instagram
+            </div>
+         </a>
+         <a href="https://www.linkedin.com/in/daraine-delevante/">
+            <div class="layer">
+               <span></span>
+               <span></span>
+               <span></span>
+               <span></span>
+               <span class="fab fa-linkedin-in"></span>
+            </div>
+            <div class="text">
+               Linkedin
+            </div>
+         </a>
+         <a href="https://www.youtube.com/@DaraineDelevante?sub_confirmation=1">
+            <div class="layer">
+               <span></span>
+               <span></span>
+               <span></span>
+               <span></span>
+               <span class="fab fa-youtube"></span>
+            </div>
+            <div class="text">
+               YouTube
+            </div>
+         </a>
+         <a href="https://www.tiktok.com/@darainedelevante">
+            <div class="layer">
+               <span></span>
+               <span></span>
+               <span></span>
+               <span></span>
+               <span class="fab fa-tiktok"></span>
+            </div>
+            <div class="text">
+               TikTok
+            </div>
+         </a>
+      </div>
+   </body>
+</html>
